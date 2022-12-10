@@ -7,6 +7,6 @@ public class BasicVariablesInitialization {
         int second = 10;
         int third = 100;
 
-        System.out.println(first + "\n" + second + "\n" + third);
+        System.out.println("" + first + "\n" + second + "\n" + third);
     }
 }
